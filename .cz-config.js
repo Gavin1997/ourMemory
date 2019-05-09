@@ -38,7 +38,7 @@ module.exports = {
     }
   ],
 
-  scopes: ["一张图", "辅助审批", "辅助审查", "辅助编制", "监测预警", "公共模块", "行业管理", "cli"],
+  scopes: ["主页", "地图", "时间", "辅助编制", "cli"],
 
   allowCustomScopes: true,
   allowBreakingChanges: ["feat", "fix"]
